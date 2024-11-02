@@ -125,9 +125,9 @@ public class Main {
                 double differenceintheyearMasha = oneyearraisingMasha - oneyearMasha;
                 double differenceintheyearDenis = oneyearraisingDenis - oneyearDenis;
                 double differenceintheyearKris = oneyearraisingKris - oneyearKris;
-                System.out.println(" Маша теперь получает " + raisingMasha + " руб в месяц, ее доход увеличился на " + differenceMasha + " рублей в месяц, или же на " + differenceintheyearMasha + " рублей в год!");
-                System.out.println(" Данис теперь получает " + raisingDenis + " руб в месяц, его доход увеличился на " + differenceDenis + " рублей в месяц, или же на " + differenceintheyearDenis + " рублей в год!" );
-                System.out.println(" Кристина теперь получает " + raisingKris + " руб в месяц, ее доход увеличился на " + differenceKris + " рублей в месяц, или же на " + differenceintheyearKris + " рублей в год!" );
+                System.out.println("Маша теперь получает " + raisingMasha + " руб в месяц, ее доход увеличился на " + differenceMasha + " рублей в месяц, или же на " + differenceintheyearMasha + " рублей в год!");
+                System.out.println("Данис теперь получает " + raisingDenis + " руб в месяц, его доход увеличился на " + differenceDenis + " рублей в месяц, или же на " + differenceintheyearDenis + " рублей в год!" );
+                System.out.println("Кристина теперь получает " + raisingKris + " руб в месяц, ее доход увеличился на " + differenceKris + " рублей в месяц, или же на " + differenceintheyearKris + " рублей в год!" );
 
     }
 }
